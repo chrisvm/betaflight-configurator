@@ -286,6 +286,11 @@
     "tabFirmwareFlasher": {
         "message": "Firmware Flasher"
     },
+
+    "tabDeviceHost": {
+        "message": "Device Host"
+    },
+    
     "tabLanding": {
         "message": "Welcome"
     },

@@ -1261,6 +1261,18 @@ li.active .ic_flasher {
     background-image: url(../images/icons/cf_icon_flasher_white.svg);
 }
 
+.ic_host {
+    background-image: url(../images/icons/cf_icon_vtx_grey.svg);
+}
+
+.ic_host:hover {
+    background-image: url(../images/icons/cf_icon_vtx_white.svg);
+}
+
+li.active .ic_host {
+    background-image: url(../images/icons/cf_icon_vtx_white.svg);
+}
+
 .ic_transponder {
     background-image: url(../images/icons/cf_icon_transponder_grey.svg);
     background-position-y: 2px;

@@ -190,6 +190,9 @@
     "tabFirmwareFlasher": {
         "message": "Instalar Firmware"
     },
+    "tabDeviceHost": {
+        "message": "Compartir Dispositivo"
+    },
     "tabLanding": {
         "message": "Bienvenido"
     },
